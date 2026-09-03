@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "KQnl_mvf5WegzakMNcKty"
+uri = "file://.local/outputs/home-Project-Deck.pptx"
+type = "slides"
+title = "Sentinel/home Project Deck.pptx"
