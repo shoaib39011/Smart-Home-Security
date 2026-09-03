@@ -1,0 +1,1 @@
+- [OpenAPI codegen and Zod compatibility](api-codegen-zod.md) — generated schemas require Zod 4 helpers such as top-level int().
